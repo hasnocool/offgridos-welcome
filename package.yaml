@@ -1,0 +1,5 @@
+name: offgridos-welcome
+version: 0.1.0
+description: First-login and login-screen welcome defaults for OffGridOS.
+kind: workspace-package
+rootfs: rootfs
